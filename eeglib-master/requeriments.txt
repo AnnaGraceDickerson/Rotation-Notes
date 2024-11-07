@@ -1,0 +1,9 @@
+numpy
+scipy
+scikit-learn
+numba
+pandas
+pyedflib
+fastdtw
+progressbar2
+colorednoise
